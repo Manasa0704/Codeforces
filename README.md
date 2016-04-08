@@ -1,3 +1,3 @@
 # Codeforces
 
-!https://www.google.co.in/images/nav_logo242.png
+![alt](https://camo.githubusercontent.com/f77c0c8bd9bacf0aa22a7fbed2b9783cb4a402c1/687474703a2f2f7777772e636c6b65722e636f6d2f636c6970617274732f512f392f752f382f4d2f362f67686f73742d736179696e672d626f6f2d6d642e706e67)
