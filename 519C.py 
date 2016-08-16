@@ -1,0 +1,3 @@
+XP,NB=map(int,raw_input().split())
+n=0
+n=
